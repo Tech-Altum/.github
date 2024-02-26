@@ -5,15 +5,15 @@ Tech Altum is an IIT Alumni & ISO Certified IT Training Institute in Noida regis
 We provide both **Online** and **Offline** Training in following courses:
 
 <ol>
-  <li>**Web Designing**</li>
-  <li>**Full Stack Web Developer**</li>
-  <li>**Frontend Development**</li>
-  <li>**Node JS**</li>
-  <li>**MERN Stack**</li>
-  <li>**MARN Stack**</li>
-  <li>**React JS**</li>
-  <li>**Angular**</li>
-  <li>**JavaScript ES6 to ES14**</li>
+  <li>Web Designing**</li>
+  <li>Full Stack Web Developer</li>
+  <li>Frontend Development</li>
+  <li>Node JS</li>
+  <li>MERN Stack</li>
+  <li>MARN Stack</li>
+  <li>React JS</li>
+  <li>Angular</li>
+  <li>JavaScript ES6 to ES14</li>
   <li>UI Development</li>
   <li>Php </li>
   <li>Software Testing</li>
